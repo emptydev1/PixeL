@@ -1,6 +1,3 @@
-Claro, aqui está uma versão mais elaborada e estilosa do `README.md` para o seu bot do Discord, PixeL:
-
-```markdown
 <p align="center">
   <img src="https://example.com/pixel_logo.png" alt="PixeL Logo" width="200">
 </p>
@@ -48,6 +45,3 @@ PixeL was born on March 7th, 2023, powered by Node.js and Discord.js. 🎂🎈
 Feel free to contribute by submitting pull requests or reporting issues on [GitHub](https://github.com/yourrepository). 🙌
 
 For support or inquiries, contact the developer at `your.email@example.com`. 📧
-```
-
-Lembre-se de substituir `YOUR_CLIENT_ID`, `YOUR_PERMISSIONS` e `https://example.com/pixel_logo.png` pelos valores e link apropriados para o seu bot e seu logotipo.
