@@ -1,67 +1,44 @@
 <p align="center">
-  <img src="https://example.com/pixel_logo.png" alt="PixeL Logo" width="200">
+  <img src="/images/pixel_logo.png" alt="PixeL Logo" width="200">
 </p>
 
-# Welcome to PixeL 🚀
+<h1>Bem-vindo ao PixeL 🚀</h1>
 
-PixeL is not just another Discord bot - it's your ultimate companion for server management, interaction, and fun! With a sleek design and powerful features, PixeL is here to take your Discord experience to the next level. 
+<p align="left">PixeL não é apenas mais um bot do Discord – é o seu melhor companheiro para gerenciamento de servidor, interação e diversão! Com um design elegante e recursos poderosos, o PixeL está aqui para levar sua experiência no Discord para o próximo nível.</p> 
 
-## Features 🎉
+<h2>Características 🎉</h2>
 
-### Interaction 🤝
-Engage with other users through fun and interactive commands like hug, pat, and kiss.
+- **Interação**: Engaje-se com outros membros da comunidade de forma divertida e interativa usando os comandos de interação do PixeL! Desde abraços reconfortantes até elogios calorosos, há uma variedade de maneiras de criar laços e espalhar positividade em seu servidor. 🤝❤️
+- **Jogos**: Divirta-se com a categoria de jogos do PixeL! Desafie seus amigos, teste suas habilidades e mergulhe em aventuras emocionantes com uma variedade de comandos de jogos. 🎮🎲
+- **Economia**: Construa uma economia próspera em seu servidor com os recursos de economia do PixeL! Permita que os membros ganhem e gastem moedas virtuais, participem de jogos econômicos e interajam com a comunidade de uma maneira totalmente nova. Com o sistema de economia do PixeL, a diversão nunca para! 💰📈
+- **Moderação**: Mantenha seu servidor seguro e organizado com os poderosos recursos de moderação do PixeL. Com ferramentas para gerenciar membros, moderar conteúdo e garantir um ambiente saudável, você pode ter tranquilidade sabendo que seu servidor está sob controle. 🛡️🔨
+- **Utilitários**: Explore uma ampla gama de comandos utilitários para simplificar suas tarefas diárias e aprimorar sua experiência nos servidores. 🛠️🔍
 
-### Economy 💰
-Manage virtual currency, participate in various economic activities, and create a thriving economy in your server.
+<h2>Começando 🚀</h2>
 
-### Moderation 🛡️
-Maintain control over your server with advanced moderation tools and commands, keeping your community safe and enjoyable for everyone.
+<p align="left">Adicionar o PixeL ao seu servidor do Discord é rápido e fácil! Basta clicar no link abaixo para convidar PixeL para o seu servidor e, posteriormente, utilizar suas funcionalidades: </p>
 
-### Utilities 🛠️
-Access a wide range of utility commands to simplify server management, enhance user experience, and make your life easier as an administrator.
+<p align="center">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1103785889668284477&scope=applications.commands+bot"><img src="images/addbot_btn.png" alt="Add PixeL in Your Server" width="170"></a>
+</p>
 
-## Installation and Setup 🛠️
+<h2>Sobre o PixeL ℹ️</h2>
 
-1. **Clone the Repository**: Clone this repository to your local machine.
-2. **Install Dependencies**: Install the required dependencies using npm.
-   ```
-   npm install
-   ```
-3. **Configure the Bot**: Set up the bot token and other settings in the `config.json` file.
-4. **Start the Bot**: Launch the bot using:
-   ```
-   node index.js
-   ```
+<p align="left">PixeL nasceu em 04 de maio de 2023 (mais especificamente, às 17h51min 🤓) e foi desenvolvido com Node.js e Discord.js. Nossa missão é fornecer às comunidades do Discord um bot versátil e confiável que aprimore as interações e simplifique o gerenciamento do servidor.</p> 
 
-## Getting Started 🚀
+<h2>Ajude-nos a Manter o PixeL! 💖</h2>
 
-Adding PixeL to your Discord server is quick and easy! Just click the link below to invite PixeL to your server:
+<p align="left">Se você gosta de utilizar o PixeL e deseja ajudar a manter nosso bot funcionando, considere fazer uma doação! Sua contribuição nos ajuda a cobrir os custos de hospedagem e a desenvolver novos recursos para tornar sua experiência ainda melhor. Além disso, você pode votar no PixeL no top.gg para nos ajudar a crescer e alcançar mais usuários. Obrigado pelo seu apoio contínuo!</p>
 
-[![Add PixeL to Your Server](https://example.com/add_to_discord_button.png)](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot&permissions=YOUR_PERMISSIONS)
+<p align="center">
+  <a href="https://link.mercadopago.com.br/pixelbot"><img src="/images/donate_btn.png" alt="Donate for PixeL" width="150"></a>
+  <a href="https://top.gg/bot/1103785889668284477/vote"><img src="/images/vote_btn.png" alt="Vote on Top.gg" width="150"></a>
+</p>
 
-## About PixeL ℹ️
+<h2>Termos de Uso e Serviço 📜</h2>
 
-PixeL was born on March 7th, 2023, crafted with love and expertise in Node.js and Discord.js. Our mission is to provide Discord communities with a versatile and reliable bot that enhances interactions and simplifies server management. 
+Ao adicionar o PixeL ao seu servidor do Discord, você concorda em cumprir os [Termos de Serviço do Discord](https://discord.com/terms) e os termos adicionais que estão listados nesse mesmo repositório do GitHub e podem ser encontrados em [ToS.md](https://github.com/emptydev1/PixeL/blob/main/ToS.md).
 
-## Terms of Use and Service 📜
+<h2>Contribuidores do Projeto 💻</h2>
 
-By adding PixeL to your Discord server, you agree to comply with the [Discord Terms of Service](https://discord.com/terms) and the following additional terms:
-- You will not use PixeL for any illegal or malicious activities.
-- You will not attempt to reverse engineer, decompile, or modify PixeL in any way.
-- You will not abuse or harass other users with PixeL's features.
-- You will not hold the developer responsible for any damages or losses caused by PixeL's usage.
-
-For more details, please refer to our [Terms of Service](https://github.com/abc/abc.tos.md).
-
-## Support PixeL 💖
-
-Your support means the world to us! Consider donating to help keep PixeL running smoothly or voting for PixeL on top.gg:
-
-[![Support PixeL on PayPal](https://example.com/donate_button.png)](https://mpg.la/abuauz)
-[![Vote for PixeL on top.gg](https://example.com/vote_button.png)](https://top.gg/bot/1938184818481748/vote)
-
-## Contributors 👨‍💻👩‍💻
-
-A big thank you to all our contributors who have helped shape PixeL into what it is today. Want to join our team? Feel free to contribute by submitting pull requests or reporting issues on [GitHub](https://github.com/yourrepository).
-
-For support or inquiries, contact the developer at `your.email@example.com`. 📧
+Um grande obrigado a todos os nossos colaboradores que ajudaram a transformar o PixeL no que ele é hoje. Quer juntar-se a nossa equipe? Sinta-se à vontade para contribuir enviando pull requests ou relatando problemas no [GitHub](https://github.com/emptydev1/pixel).
